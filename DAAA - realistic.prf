@@ -1,0 +1,70 @@
+Settings	SettingsfileSYMBOLOGY	\DAAA\Settings\Realistic\Symbology.txt
+Settings	SettingsfileVOICE	\DAAA\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\DAAA\Settings\Realistic\Profiles.txt
+Settings	SettingsfileTAGS	\DAAA\Settings\Tags.txt
+Settings	SettingsfileSIL	\DAAA\Settings\Realistic\SectorInboundList.txt
+Settings	SettingsfileSEL	\DAAA\Settings\Realistic\SectorExitList.txt
+Settings	SettingsfileDEP	\DAAA\Settings\Realistic\DepartureList.txt
+Settings	SettingsfileARR	\DAAA\Settings\Realistic\ArrivalList.txt
+Settings	SettingsfileFP	\DAAA\Settings\Realistic\FPList.txt
+Settings	SettingsfilePLUGINS	\DAAA\Settings\Realistic\Plugins.txt
+Settings	Settingsfile	\DAAA\Settings\Realistic\General.txt
+Settings	SettingsfileSCREEN	\DAAA\Settings\Realistic\Screen.txt
+Settings	SettingsfileCONFLICT	\DAAA\Settings\Realistic\Conflict.txt
+Settings	SettingsfilePILOTING	\DAAA\Settings\Realistic\PilotingList.txt
+Settings	alias	\DAAA\Alias\alias.txt
+Settings	airlines	\DAAA\ICAO\ICAO_Airlines.txt
+Settings	airports	\DAAA\ICAO\ICAO_Airports.txt
+Settings	aircraft	\DAAA\ICAO\ICAO_Aircraft.txt
+Settings	airways	\DAAA\NavData\airway.txt
+Settings	airportcoords	\DAAA\NavData\icao.txt
+LastSession	atis_airport	DAAG
+RecentFiles	Recent1	\DAAA\ASR\CTR.asr
+RecentFiles	Recent2	\DAAA\ASR\GND.asr
+Plugins	Plugin0	\DAAA\Plugins\TopSky - realistic\TopSky.dll
+Settings	sector	\DAAA-Test_20260322063513-260301-0003.sct
+LastSession	atis_freq4	118000
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	300
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	atis_freq3	118000
+Plugins	Plugin1	\DAAA\Plugins\MAG\P21Euroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+TeamSpeakVccs	TsVccsMiniControlX	1794
+TeamSpeakVccs	TsVccsMiniControlY	934
+Plugins	Plugin2	\DAAA\Plugins\VCH\VCH.dll
+Plugins	Plugin3	\DAAA\Plugins\MAESTRO\MAESTRO.dll
+Plugins	Plugin4	\DAAA\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin5	\DAAA\Plugins\AFV\AfvEuroScopeBridge.dll
+Plugins	Plugin6	\DAAA\Plugins\RDF\RDFPlugin.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin7	\DAAA\Plugins\GRplugin\GRplugin.dll
+Plugins	Plugin8	\DAAA\Plugins\IASsure\IASsure.dll
+Sounds	Sound0	\DAAA\Sounds\Handoff Request.wav
+Sounds	Sound1	\DAAA\Sounds\Handoff Accept.wav
+Sounds	Sound2	\DAAA\Sounds\Conflict Alert.wav
+Sounds	Sound3	\DAAA\Sounds\Private Msg.wav
+Sounds	Sound4	\DAAA\Sounds\Private Msg.wav
+Sounds	Sound5	\DAAA\Sounds\Private Msg.wav
+Sounds	Sound6	\DAAA\Sounds\Private Msg.wav
+Sounds	Sound7	C:\Program Files (x86)\EuroScope\Sounds\landline_request.wav
+Sounds	Sound8	C:\Program Files (x86)\EuroScope\Sounds\supervisor_message.wav
+Sounds	Sound9	\DAAA\Sounds\Connect.wav
+Sounds	Sound10	\DAAA\Sounds\Disconnect.wav
+Sounds	Sound11	\DAAA\Sounds\ongoing_request.wav
+Sounds	Sound12	\DAAA\Sounds\Handoff Accept.wav
+Sounds	Sound13	\DAAA\Sounds\Handoff Request.wav
+Sounds	Sound14	\DAAA\Sounds\ongoing_manual.wav
+Sounds	Sound15	\DAAA\Sounds\new_atis.wav
+Sounds	Sound16	\DAAA\Sounds\handoff_refused.wav
+Sounds	Sound17	\DAAA\Sounds\pointout.wav
+Sounds	Sound18	\DAAA\Sounds\startup_silent.wav
+RecentFiles	Recent3	\DAAA\ASR\APP.asr
+RecentFiles	Recent4	\DAAA\ASR\TWR.asr
+Plugins	Plugin0Display1	Ground Radar display
+LastSession	server	AUTOMATIC
+Plugins	Plugin7Display0	Ground Radar display
