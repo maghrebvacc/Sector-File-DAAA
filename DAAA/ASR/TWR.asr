@@ -1,0 +1,234 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:DABB-TMA:
+ARTCC boundary:DABC-TMA:
+ARTCC boundary:DAOO-TMA:
+ARTCC boundary:DAUH-TMA:
+ARTCC high boundary:DAAA-ALL:
+ARTCC high boundary:DAAA-NC:
+ARTCC high boundary:DAAA-NE:
+ARTCC high boundary:DAAA-NW:
+ARTCC high boundary:DAAA-SC:
+ARTCC high boundary:DAAA-SE:
+ARTCC high boundary:DAAA-SS:
+ARTCC high boundary:DAAA-SW:
+Fixes:ABLOD:symbol
+Fixes:AGREB:symbol
+Fixes:AMIRA:symbol
+Fixes:AMTES:symbol
+Fixes:AMTIK:symbol
+Fixes:ANIEB:symbol
+Fixes:ARIAM:symbol
+Fixes:ARZEW:symbol
+Fixes:ATAFA:symbol
+Fixes:ATCHA:symbol
+Fixes:BABOR:symbol
+Fixes:BAGBO:symbol
+Fixes:BAHRI:symbol
+Fixes:BASID:symbol
+Fixes:BERIA:symbol
+Fixes:BERTI:symbol
+Fixes:BISSA:symbol
+Fixes:BOKAL:symbol
+Fixes:BOUGA:symbol
+Fixes:BOURI:symbol
+Fixes:BRENA:symbol
+Fixes:BUYAH:symbol
+Fixes:CARBO:symbol
+Fixes:CHAMI:symbol
+Fixes:CHIGA:symbol
+Fixes:CHLAL:symbol
+Fixes:CIRTA:symbol
+Fixes:CITER:symbol
+Fixes:DAFRI:symbol
+Fixes:DAHRA:symbol
+Fixes:DAYAT:symbol
+Fixes:DIMAO:symbol
+Fixes:DITRE:symbol
+Fixes:DOLIS:symbol
+Fixes:EKRAK:symbol
+Fixes:EREBO:symbol
+Fixes:ERKEL:symbol
+Fixes:FAROS:symbol
+Fixes:GABEL:symbol
+Fixes:GAFLA:symbol
+Fixes:GARBA:symbol
+Fixes:GOBET:symbol
+Fixes:GOMRI:symbol
+Fixes:HAMRA:symbol
+Fixes:HINAN:symbol
+Fixes:HJILA:symbol
+Fixes:HOGAR:symbol
+Fixes:IBNOD:symbol
+Fixes:IKTAV:symbol
+Fixes:INAMA:symbol
+Fixes:IPOBA:symbol
+Fixes:KAHIL:symbol
+Fixes:KAMER:symbol
+Fixes:KAWKA:symbol
+Fixes:KIRLA:symbol
+Fixes:KRIMA:symbol
+Fixes:KSOUR:symbol
+Fixes:LABRO:symbol
+Fixes:LIGUM:symbol
+Fixes:LOUHA:symbol
+Fixes:LUXUR:symbol
+Fixes:MAHDI:symbol
+Fixes:MELOG:symbol
+Fixes:MERAT:symbol
+Fixes:MEZAB:symbol
+Fixes:MOGAR:symbol
+Fixes:MOGIL:symbol
+Fixes:MOKAT:symbol
+Fixes:MORJA:symbol
+Fixes:MOUET:symbol
+Fixes:MOUNA:symbol
+Fixes:NADJI:symbol
+Fixes:NAGAH:symbol
+Fixes:NIFEL:symbol
+Fixes:ORSUP:symbol
+Fixes:OTARO:symbol
+Fixes:OUCIF:symbol
+Fixes:PAGRE:symbol
+Fixes:PECES:symbol
+Fixes:RAHIL:symbol
+Fixes:RAMAD:symbol
+Fixes:REKDA:symbol
+Fixes:REQIN:symbol
+Fixes:RIAME:symbol
+Fixes:RIKIF:symbol
+Fixes:RIMEL:symbol
+Fixes:ROANE:symbol
+Fixes:ROFER:symbol
+Fixes:SABRO:symbol
+Fixes:SADAF:symbol
+Fixes:SAKET:symbol
+Fixes:SAKNA:symbol
+Fixes:SALMA:symbol
+Fixes:SAMRA:symbol
+Fixes:SBITA:symbol
+Fixes:SIHAR:symbol
+Fixes:SONED:symbol
+Fixes:TABAL:symbol
+Fixes:TAGIG:symbol
+Fixes:TAGRO:symbol
+Fixes:TAJEN:symbol
+Fixes:TALEL:symbol
+Fixes:TAMUZ:symbol
+Fixes:TARAT:symbol
+Fixes:TARIK:symbol
+Fixes:TERAS:symbol
+Fixes:TERSA:symbol
+Fixes:TIFOU:symbol
+Fixes:TILMA:symbol
+Fixes:TINVI:symbol
+Fixes:TOBUK:symbol
+Fixes:TOLGA:symbol
+Fixes:TWARG:symbol
+Fixes:USRUT:symbol
+Fixes:ZAWAT:symbol
+Fixes:ZENAD:symbol
+Fixes:ZIBAN:symbol
+Geo:DA Danger area D32 Arzew - MSL/1200m:
+Geo:DA Danger area D50A Bousfer - GND/FL300:
+Geo:DA Danger area D50B Bousfer - GND/FL240:
+Geo:DA Danger area D50C Bousfer - FL055/FL300:
+Geo:DA Danger area D50D Bousfer - MSL/FL300:
+Geo:DA Danger area D50E Bousfer - GND/FL300:
+Geo:DA Danger area D50F Bousfer - GND/FL300:
+Geo:DA Danger area D52 Souk el Arba - GND/FL250:
+Geo:DA Danger area D53A Oum el Bouaghi - GND/UNL:
+Geo:DA Danger area D53B Oum el Bouaghi - GND/UNL:
+Geo:DA Danger area D53C Oum el Bouaghi - GND/UNL:
+Geo:DA Danger area D53D Oum el Bouaghi - GND/UNL:
+Geo:DA Danger area D55 Oum el Bouaghi - GND/FL280:
+Geo:DA Danger area D56 Oum el Bouaghi - GND/FL100:
+Geo:DA Danger area D59 Oum el Bouaghi - GND/UNL:
+Geo:DA Danger area D71 - GND/800m:
+Geo:DA Danger area D74A Tafaraoui - GND/FL295:
+Geo:DA Danger area D74B Tafaraoui - A080/FL295:
+Geo:DA Danger area D74B Tafaraoui - A090/FL295:
+Geo:DA Danger area D76 - MSL/A030:
+Geo:DA Danger area D79 Ain Oussera - GND/UNL:
+Geo:DA Danger area D82 Hassi Bahbah - GND/UNL:
+Geo:DA Danger area D85 Tamenghasset - GND/FL295:
+Geo:DA Danger area D86 Annaba - MSL/FL290:
+Geo:DA Danger area D87 Annaba - MSL/FL290:
+Geo:DA Danger area D90 Bordj Chegga - GND/FL200:
+Geo:DA Danger area D91A Tamenghasset - GND/FL245:
+Geo:DA Danger area D91B Tamenghasset - GND/FL245:
+Geo:DA Danger area D92 - MSL/A010:
+Geo:DA Danger area D93 - MSL/A010:
+Geo:DA Danger area D94 - MSL/A010:
+Geo:DA Danger area D95 Larbaa - GND/1000AGL:
+Geo:DA Danger area D96 Zemmouri - GND/1000AGL:
+Geo:DA Danger area D97 Larbaatache - GND/1000AGL:
+Geo:DA Prohibited area P51 Ain Oussera - GND/UNL:
+Geo:DA Prohibited area P58 Laghouat - GND/UNL:
+Geo:DA Prohibited area P60 Ouargla - GND/UNL:
+Geo:DA Prohibited area P64 Tindouf - GND/UNL:
+Geo:DA Prohibited area P67 Bechar - GND/UNL:
+Geo:DA Prohibited area P70 Mecheria - GND/UNL:
+Geo:DA Prohibited area P89A Tamenghasset - GND/UNL:
+Geo:DA Prohibited area P89B Tamenghasset - GND/UNL:
+Geo:DA Prohibited area P89C Tamenghasset - GND/UNL:
+Geo:DA Restricted area P73 Tlemcen - GND/FL080:
+Geo:DA Restricted area P80 Oum el Bouaghi - GND/FL280:
+Geo:DA Restricted area R68 Ain Arnat - GND/FL105:
+Geo:DA Restricted area R77 Oum el Bouaghi - NOTAM:
+Geo:DA Restricted area R78 Chlef - GND/FL070:
+Geo:DA Restricted area R84 Cheraga - GND/FL040:
+Geo:DA Restricted area R84A Boufarik - GND/A025:
+Geo:DA Restricted area R84B Boufarik - GND/FL050:
+Geo:DA Restricted area R88 Biskra - GND/FL100:
+VORs:ADR:symbol
+VORs:ANB:symbol
+VORs:BAY:symbol
+VORs:BBS:symbol
+VORs:BCR:symbol
+VORs:BIS:symbol
+VORs:BJA:symbol
+VORs:BOD:symbol
+VORs:BSA:symbol
+VORs:BTN:symbol
+VORs:CLF:symbol
+VORs:CSO:symbol
+VORs:ELO:symbol
+VORs:GHA:symbol
+VORs:HME:symbol
+VORs:HRM:symbol
+VORs:IGZ:symbol
+VORs:ILZ:symbol
+VORs:MNA:symbol
+VORs:MOK:symbol
+VORs:MOS:symbol
+VORs:NSL:symbol
+VORs:ORA:symbol
+VORs:OUR:symbol
+VORs:SDM:name
+VORs:SDM:symbol
+VORs:STF:symbol
+VORs:TBS:symbol
+VORs:TDF:symbol
+VORs:TGU:symbol
+VORs:TIO:symbol
+VORs:TLM:symbol
+VORs:TMS:symbol
+VORs:ZEM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:7
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Indra
+WINDOWAREA:36.159273:1.944274:37.345170:4.625717

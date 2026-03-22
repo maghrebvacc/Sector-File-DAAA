@@ -1,0 +1,71 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\didou\Downloads\DAAA-Test-Package_20260322063513-260301-0003\DAAA-Test_20260322063513-260301-0003.sct
+SECTORTITLE:DAAA-Test_20260322063513-260301-0003.sct
+Geo:DA Danger area D32 Arzew - MSL/1200m:
+Geo:DA Danger area D50A Bousfer - GND/FL300:
+Geo:DA Danger area D50B Bousfer - GND/FL240:
+Geo:DA Danger area D50C Bousfer - FL055/FL300:
+Geo:DA Danger area D50D Bousfer - MSL/FL300:
+Geo:DA Danger area D50E Bousfer - GND/FL300:
+Geo:DA Danger area D50F Bousfer - GND/FL300:
+Geo:DA Danger area D52 Souk el Arba - GND/FL250:
+Geo:DA Danger area D53A Oum el Bouaghi - GND/UNL:
+Geo:DA Danger area D53B Oum el Bouaghi - GND/UNL:
+Geo:DA Danger area D53C Oum el Bouaghi - GND/UNL:
+Geo:DA Danger area D53D Oum el Bouaghi - GND/UNL:
+Geo:DA Danger area D55 Oum el Bouaghi - GND/FL280:
+Geo:DA Danger area D56 Oum el Bouaghi - GND/FL100:
+Geo:DA Danger area D59 Oum el Bouaghi - GND/UNL:
+Geo:DA Danger area D71 - GND/800m:
+Geo:DA Danger area D74A Tafaraoui - GND/FL295:
+Geo:DA Danger area D74B Tafaraoui - A080/FL295:
+Geo:DA Danger area D74B Tafaraoui - A090/FL295:
+Geo:DA Danger area D76 - MSL/A030:
+Geo:DA Danger area D79 Ain Oussera - GND/UNL:
+Geo:DA Danger area D82 Hassi Bahbah - GND/UNL:
+Geo:DA Danger area D85 Tamenghasset - GND/FL295:
+Geo:DA Danger area D86 Annaba - MSL/FL290:
+Geo:DA Danger area D87 Annaba - MSL/FL290:
+Geo:DA Danger area D90 Bordj Chegga - GND/FL200:
+Geo:DA Danger area D91A Tamenghasset - GND/FL245:
+Geo:DA Danger area D91B Tamenghasset - GND/FL245:
+Geo:DA Danger area D92 - MSL/A010:
+Geo:DA Danger area D93 - MSL/A010:
+Geo:DA Danger area D94 - MSL/A010:
+Geo:DA Danger area D95 Larbaa - GND/1000AGL:
+Geo:DA Danger area D96 Zemmouri - GND/1000AGL:
+Geo:DA Danger area D97 Larbaatache - GND/1000AGL:
+Geo:DA Prohibited area P51 Ain Oussera - GND/UNL:
+Geo:DA Prohibited area P58 Laghouat - GND/UNL:
+Geo:DA Prohibited area P60 Ouargla - GND/UNL:
+Geo:DA Prohibited area P64 Tindouf - GND/UNL:
+Geo:DA Prohibited area P67 Bechar - GND/UNL:
+Geo:DA Prohibited area P70 Mecheria - GND/UNL:
+Geo:DA Prohibited area P89A Tamenghasset - GND/UNL:
+Geo:DA Prohibited area P89B Tamenghasset - GND/UNL:
+Geo:DA Prohibited area P89C Tamenghasset - GND/UNL:
+Geo:DA Restricted area P73 Tlemcen - GND/FL080:
+Geo:DA Restricted area P80 Oum el Bouaghi - GND/FL280:
+Geo:DA Restricted area R68 Ain Arnat - GND/FL105:
+Geo:DA Restricted area R77 Oum el Bouaghi - NOTAM:
+Geo:DA Restricted area R78 Chlef - GND/FL070:
+Geo:DA Restricted area R84 Cheraga - GND/FL040:
+Geo:DA Restricted area R84A Boufarik - GND/A025:
+Geo:DA Restricted area R84B Boufarik - GND/FL050:
+Geo:DA Restricted area R88 Biskra - GND/FL100:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:8
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Indra
+WINDOWAREA:17.245675:-32.521982:46.833700:37.588935
