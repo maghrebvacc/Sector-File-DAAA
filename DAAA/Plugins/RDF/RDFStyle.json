@@ -1,0 +1,12 @@
+{
+  "DAAA": {
+    "Radius": 50,
+    "Precision": 5,
+    "Threshold": 999999,
+    "LowAltitude": 0,
+    "RGB": "255:255:255",
+    "ConcurrentTransmissionRGB": "255:255:255",
+    "DrawControllers": false,
+    "DrawRequireTx": false
+  }
+}
