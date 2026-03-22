@@ -1,0 +1,210 @@
+PROFILE
+PROFILE:DAAA_CTR:400:6
+ATIS2:Algiers Control, covering the entire Algiers FIR
+ATIS3:CPDLC [DAAA]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAA_C_CTR:400:6
+ATIS2:Algiers Control, covering central Algeria
+ATIS3:CPDLC [DAAC]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAA_E_CTR:400:6
+ATIS2:Algiers Control, covering eastern Algeria
+ATIS3:CPDLC [DAAE]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAA_W_CTR:400:6
+ATIS2:Algiers Control, covering western Algeria
+ATIS3:CPDLC [DAAW]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAA_NE_CTR:400:6
+ATIS2:Algiers Control, covering DAAE/DAAV/DAAS/DABC/DABT/DABB/DABS/DAUB if local ATC offline
+ATIS3:CPDLC [DANW]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAA_NW_CTR:400:6
+ATIS2:Algiers Control, covering DAON/DAOO/DAOI/DAOB/DAOY/DAOV if local ATC offline
+ATIS3:CPDLC [DANW]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAA_SW_CTR:400:6
+ATIS2:Algiers Control, covering DAOR/DAUT/DAUA/DAUI/DATM/DAOF if local ATC offline
+ATIS3:CPDLC [DASW]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAA_SS_CTR:400:6
+ATIS2:Algiers Control, covering DAAJ/DAAT/DATG if local ATC offline
+ATIS3:CPDLC [DASS]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAA_NC_CTR:400:6
+ATIS2:Algiers Control, covering DAAG if local ATC offline
+ATIS3:CPDLC [DANC]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAA_SC_CTR:400:6
+ATIS2:Algiers Control, covering DAAD/DAUG/DAUE if local ATC offline
+ATIS3:CPDLC [DASC]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAA_SE_CTR:400:6
+ATIS2:Algiers Control, covering DAUO/DAUK/DAUU/DAUH/DAUZ/DAAP if local ATC offline
+ATIS3:CPDLC [DASE]
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAD_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAE_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAG_APP:150:5
+ATIS2:$radioname | TOBT @ vats.im/vdgs
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAG_TWR:50:4
+ATIS2:$radioname | TOBT @ vats.im/vdgs
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAG_GND:20:3
+ATIS2:$radioname | TOBT @ vats.im/vdgs
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAJ_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAP_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAS_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAT_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAAV_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DABB_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DABB_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DABC_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DABC_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DABC_GND:20:3
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DABS_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DABT_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAOB_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAOF_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAOI_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAON_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAOO_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAOO_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAOR_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAOV_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAOY_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DATG_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DATM_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUA_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUB_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUE_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUG_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUH_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUH_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUI_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUK_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUO_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUT_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUU_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:DAUZ_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Algeria, part of Maghreb vACC
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:<initials>_OBS:300:0
+ATIS2:$myrealname
+ATIS3:Observing Alger FIR
+ATIS4:
+END
